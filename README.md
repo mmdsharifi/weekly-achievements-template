@@ -9,11 +9,7 @@ To start, fork the [template](https://github.com/mdibaiee/weekly-achievements-te
 
 You are free to put all kinds of achievements here.
 
-Week n of Month, Year
+Week 4 of October , 2015
 -------------------------
 
-* I did something
- - which included
- - some other things
- - and I learned x and y from it
-* I also did this
+* Learn PostCSS form [Tuts+](http://webdesign.tutsplus.com/categories/postcss) #1 - #5 
