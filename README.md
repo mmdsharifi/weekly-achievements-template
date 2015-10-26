@@ -13,3 +13,4 @@ Week 4 of October , 2015
 -------------------------
 
 * Learn PostCSS form [Tuts+](http://webdesign.tutsplus.com/categories/postcss) #1 - #5 
+* MySQL learning - from Lynda
